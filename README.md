@@ -1,5 +1,5 @@
 # Documento de trabajo
-_Valoración Económica Ambiental y su Relación con el Turismo Sostenible del Santuario Histórico de la Pampa de Ayacucho – SHPA, 2022_
+## _Valoración Económica Ambiental y su Relación con el Turismo Sostenible del Santuario Histórico de la Pampa de Ayacucho – SHPA, 2022_
 
 # Artículo 
 ## Efecto de aplicación de la estrategia ágil & scrum para el aprendizaje basado en competencias en la educación universitaria
